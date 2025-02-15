@@ -1,0 +1,48 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Lindsay",
+            "object": "Rory"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lindsay",
+            "object": "Youssef"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Youssef"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Samantha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Amanda"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Amanda",
+            "person-2": "Lindsay",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Amanda"
+        }
+    ]
+}

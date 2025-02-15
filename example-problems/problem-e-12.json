@@ -1,0 +1,78 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Agnieszka",
+            "object": "Sasha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Agnieszka",
+            "object": "Sasha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Prisha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Youssef"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Agnieszka",
+            "object": "Ava"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Ava",
+            "object": "Mehmet"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Agnieszka",
+            "result-1": "A",
+            "person-2": "Sasha",
+            "result-2": "AB"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Calvin",
+            "result-1": "A",
+            "person-2": "Prisha",
+            "result-2": "A"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Youssef",
+            "result-1": "AB",
+            "person-2": "Ava",
+            "result-2": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Agnieszka"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        }
+    ]
+}

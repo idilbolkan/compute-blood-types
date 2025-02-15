@@ -1,0 +1,40 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Zeinab",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Sasha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Omar",
+            "object": "Yufei"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Zeinab",
+            "person-2": "Omar",
+            "result": "B"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Omar",
+            "person-2": "Sasha",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Omar"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Ava",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lindsay",
+            "object": "Amanda"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Ava",
+            "object": "Lyn"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Mehmet"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Lyn",
+            "result-1": "B",
+            "person-2": "Lindsay",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

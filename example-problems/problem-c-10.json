@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Rory",
+            "object": "Sasha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Rory",
+            "object": "Daniel"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Rory",
+            "object": "Nora"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Daniel"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Daniel",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Sasha"
+        }
+    ]
+}

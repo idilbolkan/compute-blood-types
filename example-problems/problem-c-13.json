@@ -1,0 +1,45 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Maria",
+            "object": "Brian"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Brian",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Brian",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Maria",
+            "object": "Brian"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Lindsay",
+            "person-2": "Brian",
+            "result": "B"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Brian",
+            "person-2": "Lindsay",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Agnieszka"
+        }
+    ]
+}

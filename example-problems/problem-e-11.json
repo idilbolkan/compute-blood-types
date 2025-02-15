@@ -1,0 +1,58 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Nora",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Linda",
+            "object": "Leslie"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Zeinab",
+            "object": "Noel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Daniel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Sasha"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Noel",
+            "person-2": "Zeinab",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Nora"
+        }
+    ]
+}

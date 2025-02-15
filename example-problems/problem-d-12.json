@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Prisha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Omar"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Rory"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Linda"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Agnieszka",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Omar"
+        }
+    ]
+}

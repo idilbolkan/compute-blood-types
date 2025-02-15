@@ -1,0 +1,37 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Amanda",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Amanda",
+            "object": "Yufei"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Amanda",
+            "object": "Jordan"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Amanda",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Jordan"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        }
+    ]
+}

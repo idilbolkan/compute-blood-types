@@ -1,0 +1,35 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Youssef",
+            "object": "Yufei"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Rory"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Rory"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Yufei",
+            "result-1": "A",
+            "person-2": "Youssef",
+            "result-2": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        }
+    ]
+}

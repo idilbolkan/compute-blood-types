@@ -1,0 +1,38 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Nora",
+            "object": "Yufei"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Nora",
+            "object": "Yufei"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Yufei",
+            "object": "Calvin"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Calvin"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Nora",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Maria",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Sam"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Sasha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Sam",
+            "result-1": "A",
+            "person-2": "Maria",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Sam"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Sasha"
+        }
+    ]
+}

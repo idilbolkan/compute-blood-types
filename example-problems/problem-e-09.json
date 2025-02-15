@@ -1,0 +1,68 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Leslie"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Leslie",
+            "object": "Ira"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Omar"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Kim",
+            "object": "Youssef"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Dana"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Rory"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Youssef",
+            "result-1": "A",
+            "person-2": "Rory",
+            "result-2": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Ira",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        }
+    ]
+}

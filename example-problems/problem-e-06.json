@@ -1,0 +1,39 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Calvin"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Prisha",
+            "object": "Calvin"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Prisha",
+            "object": "Ira"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Calvin"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Calvin",
+            "person-2": "Ira",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        }
+    ]
+}

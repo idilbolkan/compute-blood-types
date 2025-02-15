@@ -1,0 +1,44 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Yufei",
+            "object": "Sasha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Leslie"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Noel"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Yufei",
+            "object": "Jordan"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Noel",
+            "person-2": "Jordan",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Noel",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Jordan"
+        }
+    ]
+}

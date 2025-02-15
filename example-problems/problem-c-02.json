@@ -1,0 +1,34 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Ava",
+            "object": "Dana"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Dana",
+            "object": "Samantha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Dana",
+            "object": "Samantha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Ava",
+            "person-2": "Samantha",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Dana"
+        }
+    ]
+}

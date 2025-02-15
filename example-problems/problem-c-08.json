@@ -1,0 +1,53 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Noel"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Ahmed",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Maria"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Maria",
+            "person-2": "Leslie",
+            "result": "AB"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Maria",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lyn"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Noel"
+        }
+    ]
+}

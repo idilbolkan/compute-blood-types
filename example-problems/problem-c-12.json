@@ -1,0 +1,39 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Ava"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Maria",
+            "object": "Youssef"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Calvin"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Maria",
+            "object": "Youssef"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Youssef",
+            "person-2": "Ava",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        }
+    ]
+}

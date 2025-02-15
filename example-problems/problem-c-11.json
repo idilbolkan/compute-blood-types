@@ -1,0 +1,53 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Kim",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Leslie",
+            "object": "Samantha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Muhammed",
+            "person-2": "Lindsay",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Muhammed",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Samantha"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

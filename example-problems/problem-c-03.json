@@ -1,0 +1,48 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Linda",
+            "object": "Omar"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Linda",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Maria"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Maria",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Lindsay"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Omar",
+            "person-2": "Lindsay",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Linda"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

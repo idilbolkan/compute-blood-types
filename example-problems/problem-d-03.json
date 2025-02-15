@@ -1,0 +1,52 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Mehmet",
+            "object": "Kim"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Mehmet",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lyn",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Jordan"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Calvin"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Calvin",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Jordan",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lyn"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

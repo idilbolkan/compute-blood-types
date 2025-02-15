@@ -1,0 +1,69 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Calvin",
+            "object": "Daniel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lyn",
+            "object": "Samantha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Noel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Daniel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Nora"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lyn",
+            "object": "Youssef"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Noel",
+            "result": "O"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Daniel",
+            "result": "A"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Lyn",
+            "result-1": "O",
+            "person-2": "Youssef",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lyn"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        }
+    ]
+}

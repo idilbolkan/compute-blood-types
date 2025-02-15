@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Brian",
+            "object": "Maria"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Brian",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Prisha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Brian",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        }
+    ]
+}

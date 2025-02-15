@@ -1,0 +1,45 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Samantha",
+            "object": "Jordan"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Samantha",
+            "object": "Jordan"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Jordan",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Yufei"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ava",
+            "result": "A"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Jordan",
+            "result-1": "A",
+            "person-2": "Yufei",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Samantha"
+        }
+    ]
+}

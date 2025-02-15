@@ -1,0 +1,52 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Ira"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Zeinab",
+            "object": "Rory"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Omar",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Lindsay",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Zeinab"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        }
+    ]
+}

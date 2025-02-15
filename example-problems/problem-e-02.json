@@ -1,0 +1,74 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Agnieszka",
+            "object": "Omar"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Omar",
+            "object": "Lyn"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Calvin"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Mehmet",
+            "object": "Ira"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Mehmet",
+            "object": "Ira"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Mehmet",
+            "object": "Ava"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Ava",
+            "result-1": "A",
+            "person-2": "Ira",
+            "result-2": "AB"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Ira",
+            "result": "AB"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Omar",
+            "person-2": "Lyn",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ava"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Agnieszka"
+        }
+    ]
+}

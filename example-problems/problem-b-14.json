@@ -1,0 +1,53 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Nora"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Ira"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Ayansh",
+            "object": "Yufei"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Kim"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Yufei",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Nora",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Sam",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        }
+    ]
+}

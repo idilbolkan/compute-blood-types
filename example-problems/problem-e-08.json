@@ -1,0 +1,82 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Kim"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Ahmed",
+            "object": "Kim"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Samantha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Brian"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Sam"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Samantha",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Omar",
+            "object": "Daniel"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Sam",
+            "person-2": "Brian",
+            "result": "AB"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Samantha",
+            "person-2": "Sam",
+            "result": "AB"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Ahmed",
+            "result-1": "A",
+            "person-2": "Brian",
+            "result-2": "B"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Sam",
+            "person-2": "Ahmed",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Brian"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Leslie",
+            "object": "Amanda"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Leslie",
+            "object": "Lyn"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Muhammed"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Nora",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lyn"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        }
+    ]
+}

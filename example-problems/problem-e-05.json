@@ -1,0 +1,75 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Ira"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Linda"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lindsay",
+            "object": "Leslie"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Leslie",
+            "object": "Prisha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Leslie",
+            "object": "Nora"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Linda",
+            "object": "Brian"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Brian",
+            "object": "Zeinab"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Prisha",
+            "result-1": "A",
+            "person-2": "Brian",
+            "result-2": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Lindsay",
+            "result": "A"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Nora",
+            "person-2": "Brian",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Nora"
+        }
+    ]
+}

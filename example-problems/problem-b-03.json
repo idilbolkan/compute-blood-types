@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Mehmet",
+            "object": "Leslie"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Mehmet",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Leslie"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Mehmet",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        }
+    ]
+}

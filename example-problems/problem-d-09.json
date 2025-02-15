@@ -1,0 +1,54 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Youssef",
+            "object": "Omar"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Yufei",
+            "object": "Youssef"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Omar",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Muhammed"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Lindsay",
+            "result": "B"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Yufei",
+            "result-1": "A",
+            "person-2": "Muhammed",
+            "result-2": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Yufei"
+        }
+    ]
+}

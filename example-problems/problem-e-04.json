@@ -1,0 +1,44 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Omar",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Omar",
+            "object": "Kim"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Ayansh",
+            "object": "Calvin"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Ayansh",
+            "object": "Calvin"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Omar",
+            "object": "Leslie"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Leslie",
+            "person-2": "Omar",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

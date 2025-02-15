@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lindsay",
+            "object": "Brian"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Brian"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Brian",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Noel",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Sasha"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

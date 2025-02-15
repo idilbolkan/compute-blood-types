@@ -1,0 +1,56 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Calvin"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Linda",
+            "object": "Prisha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Prisha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Agnieszka",
+            "object": "Omar"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Agnieszka",
+            "object": "Omar"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Calvin",
+            "person-2": "Agnieszka",
+            "result": "B"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Linda",
+            "result-1": "B",
+            "person-2": "Omar",
+            "result-2": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        }
+    ]
+}

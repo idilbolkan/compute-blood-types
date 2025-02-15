@@ -1,0 +1,34 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lyn",
+            "object": "Kim"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Kim",
+            "person-2": "Zeinab",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Muhammed"
+        }
+    ]
+}

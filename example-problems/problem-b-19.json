@@ -1,0 +1,38 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Leslie",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Sam"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Leslie",
+            "object": "Rory"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Rory",
+            "object": "Muhammed"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Leslie",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        }
+    ]
+}

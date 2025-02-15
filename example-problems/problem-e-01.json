@@ -1,0 +1,68 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Sam",
+            "object": "Sasha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sam",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Samantha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lindsay",
+            "object": "Yufei"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Prisha"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Prisha",
+            "result": "B"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Lindsay",
+            "result-1": "B",
+            "person-2": "Samantha",
+            "result-2": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lyn"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Yufei"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

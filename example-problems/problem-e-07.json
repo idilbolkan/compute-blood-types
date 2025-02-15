@@ -1,0 +1,49 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Rory"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Brian"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Linda"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Brian",
+            "result-1": "B",
+            "person-2": "Leslie",
+            "result-2": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Linda"
+        }
+    ]
+}
