@@ -1,0 +1,55 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Kim"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Youssef"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Daniel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Prisha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Mehmet",
+            "result-1": "A",
+            "person-2": "Kim",
+            "result-2": "AB"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Kim",
+            "person-2": "Prisha",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

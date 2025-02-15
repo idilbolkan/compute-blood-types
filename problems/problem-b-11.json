@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Mehmet",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Leslie"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Muhammed",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Ira"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Yufei"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Noel"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Noel",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Muhammed"
+        }
+    ]
+}

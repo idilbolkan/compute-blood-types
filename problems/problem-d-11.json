@@ -1,0 +1,35 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Sasha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Noel"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Sasha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Noel",
+            "result-1": "AB",
+            "person-2": "Kim",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

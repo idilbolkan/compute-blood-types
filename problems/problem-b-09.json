@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Maria",
+            "object": "Samantha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Maria",
+            "object": "Samantha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Samantha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Maria",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Agnieszka"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Agnieszka",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Zeinab"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        }
+    ]
+}

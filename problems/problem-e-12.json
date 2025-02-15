@@ -1,0 +1,73 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Ahmed",
+            "object": "Kim"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Amanda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Ira"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Prisha",
+            "object": "Ira"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Nora"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Prisha",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Sasha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Prisha",
+            "person-2": "Sasha",
+            "result": "AB"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Nora",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Zeinab",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Prisha"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Sasha"
+        }
+    ]
+}

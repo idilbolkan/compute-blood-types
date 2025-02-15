@@ -1,0 +1,48 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Dana",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Dana",
+            "object": "Rory"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Dana",
+            "object": "Lyn"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ayansh",
+            "result": "AB"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Lyn",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        }
+    ]
+}

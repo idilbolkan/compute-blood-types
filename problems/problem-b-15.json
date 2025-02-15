@@ -1,0 +1,52 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Agnieszka",
+            "object": "Kim"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Agnieszka",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Kim",
+            "object": "Leslie"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Nora"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Leslie",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Ayansh",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Agnieszka"
+        }
+    ]
+}

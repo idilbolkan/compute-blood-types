@@ -1,0 +1,77 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Sasha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lyn",
+            "object": "Noel"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Kim"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Prisha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Nora"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Sasha",
+            "result-1": "AB",
+            "person-2": "Lindsay",
+            "result-2": "A"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Lyn",
+            "result-1": "A",
+            "person-2": "Kim",
+            "result-2": "B"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Prisha",
+            "person-2": "Lindsay",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Prisha"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        }
+    ]
+}

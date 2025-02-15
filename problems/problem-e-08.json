@@ -1,0 +1,56 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Rory"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Jordan"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Linda"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Linda",
+            "object": "Kim"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Leslie",
+            "person-2": "Kim",
+            "result": "B"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Linda",
+            "result-1": "A",
+            "person-2": "Leslie",
+            "result-2": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Jordan",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        }
+    ]
+}

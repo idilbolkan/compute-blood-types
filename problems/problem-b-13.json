@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Ava"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Jordan"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Brian"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Jordan",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Brian"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ava"
+        }
+    ]
+}

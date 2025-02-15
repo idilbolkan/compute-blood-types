@@ -1,0 +1,53 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Ayansh",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Leslie",
+            "object": "Brian"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Leslie",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Mehmet"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Lindsay",
+            "result-1": "A",
+            "person-2": "Ayansh",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Brian"
+        }
+    ]
+}

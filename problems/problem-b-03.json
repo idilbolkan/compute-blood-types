@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Linda",
+            "object": "Noel"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Linda",
+            "object": "Dana"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Dana",
+            "object": "Jordan"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Jordan",
+            "result": "AB"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Dana",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Zeinab"
+        }
+    ]
+}

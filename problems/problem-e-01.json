@@ -1,0 +1,60 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Samantha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Brian"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Samantha",
+            "object": "Omar"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Samantha",
+            "object": "Omar"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Maria"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Maria",
+            "object": "Nora"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Maria"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Kim"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Brian",
+            "result-1": "B",
+            "person-2": "Kim",
+            "result-2": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        }
+    ]
+}

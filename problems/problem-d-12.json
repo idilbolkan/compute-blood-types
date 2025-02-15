@@ -1,0 +1,46 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Sasha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Jordan"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Linda",
+            "result-1": "B",
+            "person-2": "Jordan",
+            "result-2": "AB"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Ayansh",
+            "result-1": "B",
+            "person-2": "Linda",
+            "result-2": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Jordan"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ayansh"
+        }
+    ]
+}

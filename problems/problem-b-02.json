@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Sasha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Lyn",
+            "object": "Prisha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Zeinab",
+            "object": "Agnieszka"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Prisha",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Sasha",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Zeinab"
+        }
+    ]
+}

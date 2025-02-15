@@ -1,0 +1,52 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Omar",
+            "object": "Prisha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Dana"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Nora"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Ira"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Prisha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Nora",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Prisha",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Omar"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Jordan"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Jordan",
+            "object": "Prisha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Prisha",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Youssef"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Zeinab"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Brian",
+            "person-2": "Youssef",
+            "result": "AB"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Leslie",
+            "person-2": "Youssef",
+            "result": "B"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Youssef",
+            "person-2": "Brian",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Zeinab"
+        }
+    ]
+}

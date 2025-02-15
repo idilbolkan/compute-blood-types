@@ -1,0 +1,39 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Lyn"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Lyn"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sam",
+            "object": "Jordan"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sam",
+            "object": "Jordan"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Jordan",
+            "person-2": "Sam",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Jordan"
+        }
+    ]
+}

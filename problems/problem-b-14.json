@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Daniel",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Brian"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Brian",
+            "object": "Dana"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Lindsay",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Brian",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Dana"
+        }
+    ]
+}

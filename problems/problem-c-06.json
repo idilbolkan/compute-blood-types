@@ -1,0 +1,34 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Calvin",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Agnieszka",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Agnieszka"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Calvin",
+            "person-2": "Zeinab",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        }
+    ]
+}

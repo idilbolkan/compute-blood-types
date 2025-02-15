@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Jordan"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Muhammed",
+            "object": "Daniel"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Kim",
+            "object": "Rory"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Daniel",
+            "object": "Sam"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Rory",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Muhammed"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

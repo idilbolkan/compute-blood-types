@@ -1,0 +1,51 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Prisha",
+            "object": "Jordan"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Dana"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Dana",
+            "object": "Youssef"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Jordan",
+            "object": "Linda"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Linda",
+            "object": "Brian"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Brian",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Jordan"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Dana"
+        }
+    ]
+}

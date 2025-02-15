@@ -1,0 +1,45 @@
+{
+    "family-tree": [
+        {
+            "relation": "parent-of",
+            "subject": "Ahmed",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Sam"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Ahmed",
+            "object": "Sasha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sasha",
+            "object": "Ava"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Sam",
+            "result-1": "B",
+            "person-2": "Ahmed",
+            "result-2": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}
