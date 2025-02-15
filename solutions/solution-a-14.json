@@ -1,0 +1,12 @@
+[
+    {
+        "type": "bloodtype",
+        "person": "Muhammed",
+        "distribution": {
+            "O": 0.0,
+            "A": 0.32499999999999996,
+            "B": 0.3,
+            "AB": 0.375
+        }
+    }
+]

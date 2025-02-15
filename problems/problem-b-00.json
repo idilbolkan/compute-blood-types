@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Sasha"
+        },
+        {
+            "relation": "parent-of",
+            "subject": "Sam",
+            "object": "Yufei"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Muhammed"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Sam",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Muhammed",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Sasha"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Yufei"
+        }
+    ]
+}
