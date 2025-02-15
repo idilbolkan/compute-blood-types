@@ -1,0 +1,22 @@
+[
+    {
+        "type": "bloodtype",
+        "person": "Muhammed",
+        "distribution": {
+            "O": 0.0,
+            "A": 0.25,
+            "B": 0.0,
+            "AB": 0.75
+        }
+    },
+    {
+        "type": "bloodtype",
+        "person": "Kim",
+        "distribution": {
+            "O": 0.041932907,
+            "A": 0.608067093,
+            "B": 0.05870607,
+            "AB": 0.29129393
+        }
+    }
+]

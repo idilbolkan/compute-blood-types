@@ -1,0 +1,12 @@
+[
+    {
+        "type": "bloodtype",
+        "person": "Calvin",
+        "distribution": {
+            "O": 0.076829599,
+            "A": 0.0,
+            "B": 0.923170401,
+            "AB": 0.0
+        }
+    }
+]

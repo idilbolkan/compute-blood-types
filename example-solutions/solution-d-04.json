@@ -1,0 +1,12 @@
+[
+    {
+        "type": "bloodtype",
+        "person": "Nora",
+        "distribution": {
+            "O": 0.175,
+            "A": 0.384,
+            "B": 0.329,
+            "AB": 0.112
+        }
+    }
+]

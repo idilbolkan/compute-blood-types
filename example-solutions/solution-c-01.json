@@ -1,0 +1,32 @@
+[
+    {
+        "type": "bloodtype",
+        "person": "Nora",
+        "distribution": {
+            "O": 0.0,
+            "A": 0.222897566,
+            "B": 0.222974568,
+            "AB": 0.554127866
+        }
+    },
+    {
+        "type": "bloodtype",
+        "person": "Jordan",
+        "distribution": {
+            "O": 0.042795432,
+            "A": 0.11184564,
+            "B": 0.50459136,
+            "AB": 0.340767568
+        }
+    },
+    {
+        "type": "bloodtype",
+        "person": "Youssef",
+        "distribution": {
+            "O": 0.042139645,
+            "A": 0.530600109,
+            "B": 0.104282928,
+            "AB": 0.322977318
+        }
+    }
+]
